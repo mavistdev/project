@@ -16,7 +16,8 @@
 <!-- CONTACT -->
 ## немного обо мне
 
-Мой вк, я биты пишу. Послушайте, может понравится...) - [@your_vk](https://vk.com/mavistgroup)
-мой рустор - [@your_rust](https://apps.rustore.ru/developer/LdrwW7rD9tJd74X3oXEAy6d3kAoTljE%2B)
+Мой вк, я биты пишу. Послушайте, может понравится...) - [*тык*](https://vk.com/mavistgroup)
+
+мой рустор - [*тык*](https://apps.rustore.ru/developer/LdrwW7rD9tJd74X3oXEAy6d3kAoTljE%2B)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
