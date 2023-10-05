@@ -12,22 +12,11 @@
 ## О проекте
 
 
-Офигенный проект который я перенесу на php (потом)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Офигенный проект который я перенесу на php (потом) (может)
 <!-- CONTACT -->
-## Contact
+## немного обо мне
 
 Мой вк, я биты пишу. Послушайте, может понравится...) - [@your_vk](https://vk.com/mavistgroup)
+мой рустор - [@your_rust](https://apps.rustore.ru/developer/LdrwW7rD9tJd74X3oXEAy6d3kAoTljE%2B)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
